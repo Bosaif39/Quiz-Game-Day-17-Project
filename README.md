@@ -13,7 +13,7 @@ The game continues until all questions are answered, and at the end, the total s
 
 **Example**
 
-![alt text]()
+![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_17.PNG?raw=true)
 
 **Features**
 - A set of True/False questions.
