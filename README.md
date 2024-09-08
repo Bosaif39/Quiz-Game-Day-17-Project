@@ -2,7 +2,7 @@
 
 **Overview:**
 
-This is the day 17 project of the course 100 Days of Code: The Complete Python Pro Bootcamp. It is a simple quiz game that asks the player a series of True/False questions. The quiz game tests the player's general knowledge and provides immediate feedback on their answers.
+This is the day 17 project of the course 100 Days of Code: The Complete Python Pro Bootcamp. It is a simple quiz game that asks the player a series of True/False questions about video games. The quiz game tests the player's general knowledge and provides immediate feedback on their answers.
 
 
 **How It Works:**
