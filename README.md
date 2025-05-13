@@ -32,7 +32,7 @@ The project is composed of multiple Python files:
 
 ## **Requirements**
 
-Python 3.x
+* Python 3.x
 
 
 
